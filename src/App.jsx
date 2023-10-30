@@ -9,6 +9,7 @@ function App() {
   return (
    <h2> iniciando proyecto</h2>,
    <h3> es una lista de uqehaceres </h3>
+   <h2>Ahora siiiiii a commitearrrr</h2>
   )
 }
 
